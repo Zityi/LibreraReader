@@ -478,8 +478,8 @@
    <string name="clouds">Felhők</string>
    <string name="add_to_cloud">Hozzáadás a felhőhöz</string>
    <string name="librera_cloud">Librera felhő</string>
-   <string name="hide_search_bar">A keresősáv elrejtése</string>
-   <string name="show_search_bar">A keresősáv megjelenítése</string>
+   <string name="hide_search_bar">Keresősáv elrejtése</string>
+   <string name="show_search_bar">Keresősáv megjelenítése</string>
    <string name="enable_swipe_gestures_for_pages">Engedélyezze a gesztusokat a lapok átlapolásához</string>
    <string name="never">Soha</string>
    <string name="show_notifications">Értesítések megjelenítése</string>
